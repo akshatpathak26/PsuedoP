@@ -1,0 +1,9 @@
+a {
+  background: linear-gradient(to left, #5d2f2f, #f9a0a0);
+  color: rgb(42, 44, 43);
+  text-decoration: none;
+  font-weight: bold;
+
+  padding: 10px;
+  border: 1px solid black;
+}
